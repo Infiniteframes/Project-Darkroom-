@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --font-serif: 'Fraunces', ui-serif, serif;
+
+  --color-dr-bg: #111010;
+  --color-dr-surface: #1a1817;
+  --color-dr-surface-2: #161413;
+  --color-dr-border: #2a2724;
+  --color-dr-border-faint: #221f1d;
+  --color-dr-chip: #221f1d;
+
+  --color-dr-text: #e8e4df;
+  --color-dr-text-dim: #c7c1b8;
+  --color-dr-text-muted: #a39c92;
+  --color-dr-text-faint: #7a746c;
+  --color-dr-text-fainter: #5c5751;
+
+  --color-dr-accent: #c2493a;
+  --color-dr-accent-bg: #2a1c17;
+
+  --color-dr-high: #d9884f;
+  --color-dr-high-bg: #2a2117;
+  --color-dr-medium: #caa53d;
+  --color-dr-medium-bg: #2a2417;
+  --color-dr-low: #8fae93;
+  --color-dr-low-bg: #1a2419;
+  --color-dr-critical: #f23838;
+  --color-dr-critical-bg: #341413;
+
+  --color-dr-live: #6ba86f;
+  --color-dr-live-text: #8fae93;
+}
+
+body {
+  background: var(--color-dr-bg);
+  color: var(--color-dr-text);
+}

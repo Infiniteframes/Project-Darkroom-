@@ -1,0 +1,7 @@
+﻿venv/
+data/raw/
+!data/raw/MITRE_ATTACK/ATTRIBUTION.txt
+__pycache__/
+*.pyc
+.env
+data/knowledge_base/

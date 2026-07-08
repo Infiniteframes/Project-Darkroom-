@@ -1,0 +1,1262 @@
+[
+  {
+    "alert_id": "SYN-0001",
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "category": "endpoint",
+    "alert_text": "suspicious batch file execution on HOST-85, user evansj, 04:23 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0002",
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "category": "endpoint",
+    "alert_text": "unauthorized use of Windows Calculator on HOST-91, user smithd, 02:41 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0003",
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "category": "endpoint",
+    "alert_text": "suspicious VBS script execution on HOST-67, user patelr, 08:10 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0004",
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "category": "endpoint",
+    "alert_text": "unusual Python command-line arguments on HOST-23, user jonesm, 12:05 AM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0005",
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "category": "endpoint",
+    "alert_text": "suspicious use of Windows Task Scheduler on HOST-55, user williamsa, 09:47 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0006",
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "category": "endpoint",
+    "alert_text": "multiple suspicious Bash shell sessions on HOST-98, user martinl, 10:21 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0007",
+    "technique_id": "T1059",
+    "technique_name": "Command and Scripting Interpreter",
+    "category": "endpoint",
+    "alert_text": "unauthorized use of Windows Command Prompt on HOST-72, user brownk, 05:09 PM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0008",
+    "technique_id": "T1059.001",
+    "technique_name": "PowerShell",
+    "category": "endpoint",
+    "alert_text": "suspicious PowerShell execution on HOST-13, user dlopez, 04:23 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0009",
+    "technique_id": "T1059.001",
+    "technique_name": "PowerShell",
+    "category": "endpoint",
+    "alert_text": "multiple instances of PowerShell found running under SYSTEM account on HOST-27",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0010",
+    "technique_id": "T1059.001",
+    "technique_name": "PowerShell",
+    "category": "endpoint",
+    "alert_text": "PowerShell process executing from unusual directory C:\\Windows\\Temp\\powershell.exe on HOST-18",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0011",
+    "technique_id": "T1059.001",
+    "technique_name": "PowerShell",
+    "category": "endpoint",
+    "alert_text": "suspicious registry modification for PowerShell execution on HOST-42, user root",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0012",
+    "technique_id": "T1059.001",
+    "technique_name": "PowerShell",
+    "category": "endpoint",
+    "alert_text": "newly created PowerShell script in system32 folder, HOST-11, 02:56 AM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0013",
+    "technique_id": "T1059.001",
+    "technique_name": "PowerShell",
+    "category": "endpoint",
+    "alert_text": "PowerShell process communicating with suspicious domain, HOST-5, 03:47 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0014",
+    "technique_id": "T1059.001",
+    "technique_name": "PowerShell",
+    "category": "endpoint",
+    "alert_text": "suspicious PowerShell command execution on HOST-29, user guest, 01:11 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0015",
+    "technique_id": "T1053",
+    "technique_name": "Scheduled Task/Job",
+    "category": "endpoint",
+    "alert_text": "new scheduled task created on HOST-15, user root, 'Daily Backup' job",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0016",
+    "technique_id": "T1053",
+    "technique_name": "Scheduled Task/Job",
+    "category": "endpoint",
+    "alert_text": "suspicious batch file execution on HOST-42, user jsmith, 03:14 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0017",
+    "technique_id": "T1053",
+    "technique_name": "Scheduled Task/Job",
+    "category": "endpoint",
+    "alert_text": "unknown program 'C:\\Windows\\Tasks\\Updater.exe' scheduled to run on all hosts in the domain",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0018",
+    "technique_id": "T1053",
+    "technique_name": "Scheduled Task/Job",
+    "category": "endpoint",
+    "alert_text": "task scheduler service is running under non-standard account 'NT AUTHORITY\\LOCAL SERVICE'",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0019",
+    "technique_id": "T1053",
+    "technique_name": "Scheduled Task/Job",
+    "category": "endpoint",
+    "alert_text": "newly created scheduled task 'WinUpdate' has suspicious command line arguments on HOST-89, user admin",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0020",
+    "technique_id": "T1053",
+    "technique_name": "Scheduled Task/Job",
+    "category": "endpoint",
+    "alert_text": "multiple hosts have scheduled tasks pointing to same malicious URL 'http://example.com/malware.exe'",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0021",
+    "technique_id": "T1053",
+    "technique_name": "Scheduled Task/Job",
+    "category": "endpoint",
+    "alert_text": "task scheduler audit log is disabled on multiple hosts in the domain",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0022",
+    "technique_id": "T1547",
+    "technique_name": "Boot or Logon Autostart Execution",
+    "category": "endpoint",
+    "alert_text": "unauthorized registry key modification on HOST-12 at login time",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0023",
+    "technique_id": "T1547",
+    "technique_name": "Boot or Logon Autostart Execution",
+    "category": "endpoint",
+    "alert_text": "suspicious entry in Windows runonce registry value for HOST-67, user msmith",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0024",
+    "technique_id": "T1547",
+    "technique_name": "Boot or Logon Autostart Execution",
+    "category": "endpoint",
+    "alert_text": "PowerShell script found in Startup folder of HOST-95, user davis",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0025",
+    "technique_id": "T1547",
+    "technique_name": "Boot or Logon Autostart Execution",
+    "category": "endpoint",
+    "alert_text": "unknown executable launched from User's Startup folder on HOST-88, user jdoe",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0026",
+    "technique_id": "T1547",
+    "technique_name": "Boot or Logon Autostart Execution",
+    "category": "endpoint",
+    "alert_text": "suspicious service creation on boot for HOST-41, user adams",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0027",
+    "technique_id": "T1547",
+    "technique_name": "Boot or Logon Autostart Execution",
+    "category": "endpoint",
+    "alert_text": "modified login script detected on HOST-23, user khan",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0028",
+    "technique_id": "T1547",
+    "technique_name": "Boot or Logon Autostart Execution",
+    "category": "endpoint",
+    "alert_text": "unknown startup application found on HOST-75, user rpatel",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0029",
+    "technique_id": "T1055",
+    "technique_name": "Process Injection",
+    "category": "endpoint",
+    "alert_text": "suspicious .NET process injection on HOST-23, user jdoe, 01:56 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0030",
+    "technique_id": "T1055",
+    "technique_name": "Process Injection",
+    "category": "endpoint",
+    "alert_text": "process hooking detected for svchost.exe on HOST-15, 10:42 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0031",
+    "technique_id": "T1055",
+    "technique_name": "Process Injection",
+    "category": "endpoint",
+    "alert_text": "unusual DLL loading by explorer.exe on HOST-38, user jsmith, 02:21 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0032",
+    "technique_id": "T1055",
+    "technique_name": "Process Injection",
+    "category": "endpoint",
+    "alert_text": "injection of malicious code into svchost.exe process on HOST-12, 11:05 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0033",
+    "technique_id": "T1055",
+    "technique_name": "Process Injection",
+    "category": "endpoint",
+    "alert_text": "suspicious Windows API hooking activity on HOST-18, user admin, 12:49 PM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0034",
+    "technique_id": "T1055",
+    "technique_name": "Process Injection",
+    "category": "endpoint",
+    "alert_text": "Process Dll injection detected for chrome.exe on HOST-25, 02:51 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0035",
+    "technique_id": "T1055",
+    "technique_name": "Process Injection",
+    "category": "endpoint",
+    "alert_text": "malicious code injected into system process on HOST-7, 10:19 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0036",
+    "technique_id": "T1112",
+    "technique_name": "Modify Registry",
+    "category": "endpoint",
+    "alert_text": "registry modification detected on HOST-12, process System, modifying HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion, 01:23 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0037",
+    "technique_id": "T1112",
+    "technique_name": "Modify Registry",
+    "category": "endpoint",
+    "alert_text": "user jsmith attempted to modify Windows Defender settings in the registry on HOST-34, 02:15 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0038",
+    "technique_id": "T1112",
+    "technique_name": "Modify Registry",
+    "category": "endpoint",
+    "alert_text": "multiple suspicious registry key creations detected on HOST-8, user root, 03:42 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0039",
+    "technique_id": "T1112",
+    "technique_name": "Modify Registry",
+    "category": "endpoint",
+    "alert_text": "registry value modification for Windows Update on HOST-21, process SYSTEM, 04:01 AM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0040",
+    "technique_id": "T1112",
+    "technique_name": "Modify Registry",
+    "category": "endpoint",
+    "alert_text": "unusual registry access by user guest on HOST-56, 12:45 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0041",
+    "technique_id": "T1112",
+    "technique_name": "Modify Registry",
+    "category": "endpoint",
+    "alert_text": "system administrator modified the Task Scheduler settings in the registry on HOST-29, 10:30 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0042",
+    "technique_id": "T1112",
+    "technique_name": "Modify Registry",
+    "category": "endpoint",
+    "alert_text": "registry entries created for suspicious software installation on HOST-41, user admin, 06:00 PM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0043",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "category": "identity",
+    "alert_text": "new account created with high privileges on HOST-71, user msmith, 04:28 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0044",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "category": "identity",
+    "alert_text": "suspicious login from unknown location for user hradmin, 01:45 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0045",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "category": "identity",
+    "alert_text": "abnormal activity detected on Windows Server-32, user ITsupport, 02:12 AM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0046",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "category": "identity",
+    "alert_text": "multiple users have accessed the network using the same login credentials, 03:21 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0047",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "category": "identity",
+    "alert_text": "user services accounts are logged in from an unexpected location, HOST-93, 04:50 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0048",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "category": "identity",
+    "alert_text": "sudden and frequent access to sensitive data by user marketing for unknown reasons, 12:05 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0049",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "category": "identity",
+    "alert_text": "user account has been enabled after being previously locked out due to failed login attempts, HOST-58, 02:59 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0050",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "category": "identity",
+    "alert_text": "23 failed SSH logins within 10 minutes for user root on HOST-17",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0051",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "category": "identity",
+    "alert_text": "suspicious multiple attempts to reset password for user jdoe from unknown browser fingerprint, 01:29 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0052",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "category": "identity",
+    "alert_text": "excessive login attempts for service account svc-admin from internal IP range, 02:38 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0053",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "category": "identity",
+    "alert_text": "multiple failed attempts to log in as admin via RDP on HOST-34 from suspicious geolocation, 11:05 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0054",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "category": "identity",
+    "alert_text": "brute force attempt on user jsmith's account using dictionary attack from external IP, 03:47 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0055",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "category": "identity",
+    "alert_text": "multiple failed login attempts for user admin via VPN connection from unknown client ID, 09:21 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0056",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "category": "identity",
+    "alert_text": "suspicious activity: multiple attempts to reset password for user jdoe using compromised credential, 04:12 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0057",
+    "technique_id": "T1098",
+    "technique_name": "Account Manipulation",
+    "category": "identity",
+    "alert_text": "unusual password reset request on HOST-31 by user johndoe at 01:23 AM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0058",
+    "technique_id": "T1098",
+    "technique_name": "Account Manipulation",
+    "category": "identity",
+    "alert_text": "suspicious login from new location for user root, IP address 192.168.1.100",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0059",
+    "technique_id": "T1098",
+    "technique_name": "Account Manipulation",
+    "category": "identity",
+    "alert_text": "multiple concurrent active sessions for user support on HOST-51",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0060",
+    "technique_id": "T1098",
+    "technique_name": "Account Manipulation",
+    "category": "identity",
+    "alert_text": "account lockout due to excessive failed login attempts for user guest from HOST-27",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0061",
+    "technique_id": "T1098",
+    "technique_name": "Account Manipulation",
+    "category": "identity",
+    "alert_text": "unknown system administrator account created on HOST-23, user 'systemadmin'",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0062",
+    "technique_id": "T1098",
+    "technique_name": "Account Manipulation",
+    "category": "identity",
+    "alert_text": "suspicious password change detected on HOST-19 for user jsmith at 02:56 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0063",
+    "technique_id": "T1098",
+    "technique_name": "Account Manipulation",
+    "category": "identity",
+    "alert_text": "user 'backup' is attempting to access sensitive data without proper authorization",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0064",
+    "technique_id": "T1136",
+    "technique_name": "Create Account",
+    "category": "identity",
+    "alert_text": "new local admin account 'sneaky_user' created on HOST-89, user: system administrator",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0065",
+    "technique_id": "T1136",
+    "technique_name": "Create Account",
+    "category": "identity",
+    "alert_text": "unusual network activity detected from unknown IP attempting to create Active Directory user 'hacker123', 12:45 PM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0066",
+    "technique_id": "T1136",
+    "technique_name": "Create Account",
+    "category": "identity",
+    "alert_text": "user account 'temp_worker' with high privilege created on HOST-16, last login 10 minutes ago",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0067",
+    "technique_id": "T1136",
+    "technique_name": "Create Account",
+    "category": "identity",
+    "alert_text": "multiple new user accounts detected in a short time frame (3) on HOST-75: 'sneaky_user', 'hacker123', and ' admin2'",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0068",
+    "technique_id": "T1136",
+    "technique_name": "Create Account",
+    "category": "identity",
+    "alert_text": "suspicious login to remote server from unfamiliar IP attempting to create user account 'backdooruser'",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0069",
+    "technique_id": "T1136",
+    "technique_name": "Create Account",
+    "category": "identity",
+    "alert_text": "new account 'service_account' created on HOST-32 with weak password, user: system administrator",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0070",
+    "technique_id": "T1136",
+    "technique_name": "Create Account",
+    "category": "identity",
+    "alert_text": "abnormal increase in local user creation detected on HOST-98 over the past hour",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0071",
+    "technique_id": "T1531",
+    "technique_name": "Account Access Removal",
+    "category": "identity",
+    "alert_text": "account access removal detected on HOST-123, user jdoe, 01:23 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0072",
+    "technique_id": "T1531",
+    "technique_name": "Account Access Removal",
+    "category": "identity",
+    "alert_text": "suspicious group membership modification on DC-456, user root, 02:50 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0073",
+    "technique_id": "T1531",
+    "technique_name": "Account Access Removal",
+    "category": "identity",
+    "alert_text": "attempt to remove admin access for user alice from unknown IP, 03:10 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0074",
+    "technique_id": "T1531",
+    "technique_name": "Account Access Removal",
+    "category": "identity",
+    "alert_text": "unauthorized change of user permissions on SERVER-789, group devops, 09:15 PM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0075",
+    "technique_id": "T1531",
+    "technique_name": "Account Access Removal",
+    "category": "identity",
+    "alert_text": "account access removal observed on HOST-101, user jsmith, 11:45 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0076",
+    "technique_id": "T1531",
+    "technique_name": "Account Access Removal",
+    "category": "identity",
+    "alert_text": "suspicious account lockout policy changes on DC-234, user domainadmin, 12:30 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0077",
+    "technique_id": "T1531",
+    "technique_name": "Account Access Removal",
+    "category": "identity",
+    "alert_text": "multiple unauthorized attempts to remove access for user emily from suspicious IP, 01:20 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0078",
+    "technique_id": "T1621",
+    "technique_name": "Multi-Factor Authentication Request Generation",
+    "category": "identity",
+    "alert_text": "MFA request generated on EXTERNAL-123 for jdoe, attempted login from unknown device",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0079",
+    "technique_id": "T1621",
+    "technique_name": "Multi-Factor Authentication Request Generation",
+    "category": "identity",
+    "alert_text": "suspicious OTP verification attempts originating from IP 192.168.1.100 on HOST-456",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0080",
+    "technique_id": "T1621",
+    "technique_name": "Multi-Factor Authentication Request Generation",
+    "category": "identity",
+    "alert_text": "multiple MFA requests within a short time frame for user root, possible identity compromise",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0081",
+    "technique_id": "T1621",
+    "technique_name": "Multi-Factor Authentication Request Generation",
+    "category": "identity",
+    "alert_text": "user jsmith's MFA code was requested from an unfamiliar browser extension on HOST-789",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0082",
+    "technique_id": "T1621",
+    "technique_name": "Multi-Factor Authentication Request Generation",
+    "category": "identity",
+    "alert_text": "multiple failed attempts to generate MFA codes for admin using phishing emails",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0083",
+    "technique_id": "T1621",
+    "technique_name": "Multi-Factor Authentication Request Generation",
+    "category": "identity",
+    "alert_text": "suspicious activity detected on VPN gateway, possible unauthorized access attempt through MFA bypassing",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0084",
+    "technique_id": "T1621",
+    "technique_name": "Multi-Factor Authentication Request Generation",
+    "category": "identity",
+    "alert_text": "MFA request generated on HOST-101 with user's actual credentials entered into the request form",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0085",
+    "technique_id": "T1552",
+    "technique_name": "Unsecured Credentials",
+    "category": "identity",
+    "alert_text": "unencrypted password file detected on HOST-14 in directory C:\\Users\\jsmith\\Documents",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0086",
+    "technique_id": "T1552",
+    "technique_name": "Unsecured Credentials",
+    "category": "identity",
+    "alert_text": "suspicious NTLMv2 authentication on DOMAIN-123, user jdoe, 01:23 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0087",
+    "technique_id": "T1552",
+    "technique_name": "Unsecured Credentials",
+    "category": "identity",
+    "alert_text": "CIFS share access attempt using compromised credentials for folder FINANCE on HOST-28, 03:59 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0088",
+    "technique_id": "T1552",
+    "technique_name": "Unsecured Credentials",
+    "category": "identity",
+    "alert_text": "unsecured Amazon AWS Access Key detected in system event log on HOST-91",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0089",
+    "technique_id": "T1552",
+    "technique_name": "Unsecured Credentials",
+    "category": "identity",
+    "alert_text": "Kerberos ticket request from unknown host IP 192.168.1.100 for user root, 10:45 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0090",
+    "technique_id": "T1552",
+    "technique_name": "Unsecured Credentials",
+    "category": "identity",
+    "alert_text": "sensitive database credentials stored in plaintext in SQL Server connection string on HOST-5",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0091",
+    "technique_id": "T1552",
+    "technique_name": "Unsecured Credentials",
+    "category": "identity",
+    "alert_text": "unverified SSL certificate detected during HTTPS communication with external service on PORT-443 of HOST-17, 02:11 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0092",
+    "technique_id": "T1530",
+    "technique_name": "Data from Cloud Storage",
+    "category": "cloud",
+    "alert_text": "unknown object (AWS S3 Bucket: mystorage-123) accessed by user msmith from 192.168.1.100, 01:23 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0093",
+    "technique_id": "T1530",
+    "technique_name": "Data from Cloud Storage",
+    "category": "cloud",
+    "alert_text": "suspicious GET request to Google Cloud Storage bucket 'gs://mydata-store' from IP 104.244.72.132, 03:45 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0094",
+    "technique_id": "T1530",
+    "technique_name": "Data from Cloud Storage",
+    "category": "cloud",
+    "alert_text": "new Azure Blob storage container (https://myblob.blob.core.windows.net/mycontainer) created by user jdoe without approval, 02:56 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0095",
+    "technique_id": "T1530",
+    "technique_name": "Data from Cloud Storage",
+    "category": "cloud",
+    "alert_text": "suspicious CloudFront distribution 'DISTRIBUTION_ID' accessed from unknown geolocation at 04:12 PM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0096",
+    "technique_id": "T1530",
+    "technique_name": "Data from Cloud Storage",
+    "category": "cloud",
+    "alert_text": "Amazon S3 object (mydata.txt) modified by user root without permission, 03:14 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0097",
+    "technique_id": "T1530",
+    "technique_name": "Data from Cloud Storage",
+    "category": "cloud",
+    "alert_text": "Google Cloud Storage bucket 'gs://mybackup' accessed from internal network, but not expected to be accessed during this time period, 02:19 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0098",
+    "technique_id": "T1530",
+    "technique_name": "Data from Cloud Storage",
+    "category": "cloud",
+    "alert_text": "Microsoft Azure Data Lake Analytics job (https://myadlalink.analytics.core.windows.net/job/myjob) executed by user admin without approval, 04:51 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0099",
+    "technique_id": "T1078.004",
+    "technique_name": "Cloud Accounts",
+    "category": "cloud",
+    "alert_text": "Unauthorized Amazon S3 access by user jdoe on HOST-92 at 01:45 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0100",
+    "technique_id": "T1078.004",
+    "technique_name": "Cloud Accounts",
+    "category": "cloud",
+    "alert_text": "Suspicious Google Cloud Platform API request from HOST-41, user msmith, 10:13 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0101",
+    "technique_id": "T1078.004",
+    "technique_name": "Cloud Accounts",
+    "category": "cloud",
+    "alert_text": "Cloud account creation by unauthorized user jbrown on Azure tenant ABC123 at 08:25 PM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0102",
+    "technique_id": "T1078.004",
+    "technique_name": "Cloud Accounts",
+    "category": "cloud",
+    "alert_text": "Unusual modification of AWS IAM policy for user admin, HOST-11, 02:56 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0103",
+    "technique_id": "T1078.004",
+    "technique_name": "Cloud Accounts",
+    "category": "cloud",
+    "alert_text": "Multiple failed login attempts to Microsoft Office 365 from unknown IP address at 03:22 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0104",
+    "technique_id": "T1078.004",
+    "technique_name": "Cloud Accounts",
+    "category": "cloud",
+    "alert_text": "Creation of new cloud storage bucket by user sbrown on Google Cloud Platform, HOST-23 at 11:05 AM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0105",
+    "technique_id": "T1078.004",
+    "technique_name": "Cloud Accounts",
+    "category": "cloud",
+    "alert_text": "Suspicious use of Azure Active Directory credentials by user abrown, HOST-91, 09:12 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0106",
+    "technique_id": "T1526",
+    "technique_name": "Cloud Service Discovery",
+    "category": "cloud",
+    "alert_text": "unusual Azure API call from HOST-17, user davidm, attempting to enumerate virtual machine instances",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0107",
+    "technique_id": "T1526",
+    "technique_name": "Cloud Service Discovery",
+    "category": "cloud",
+    "alert_text": "suspicious AWS S3 bucket creation by unknown IAM user, 01:30 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0108",
+    "technique_id": "T1526",
+    "technique_name": "Cloud Service Discovery",
+    "category": "cloud",
+    "alert_text": "Google Cloud Storage access attempt from compromised VPN, 03:45 PM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0109",
+    "technique_id": "T1526",
+    "technique_name": "Cloud Service Discovery",
+    "category": "cloud",
+    "alert_text": "Microsoft Azure resource discovery scan detected on HOST-81, user sarahk, 09:20 PM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0110",
+    "technique_id": "T1526",
+    "technique_name": "Cloud Service Discovery",
+    "category": "cloud",
+    "alert_text": "attempt to create new AWS IAM user with administrative privileges from unknown IP address",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0111",
+    "technique_id": "T1526",
+    "technique_name": "Cloud Service Discovery",
+    "category": "cloud",
+    "alert_text": "suspicious activity detected in Azure Active Directory - potential security token manipulation by user johnw",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0112",
+    "technique_id": "T1526",
+    "technique_name": "Cloud Service Discovery",
+    "category": "cloud",
+    "alert_text": "unauthorized access attempt to Google Cloud SQL instance via SSH, 02:50 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0113",
+    "technique_id": "T1496",
+    "technique_name": "Resource Hijacking",
+    "category": "cloud",
+    "alert_text": "AWS instance hijacked by unauthorized IAM role on account 123456789012 in us-west-2 region",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0114",
+    "technique_id": "T1496",
+    "technique_name": "Resource Hijacking",
+    "category": "cloud",
+    "alert_text": "suspicious API call to Azure Storage from unknown IP address 192.0.2.10, timestamp: 01:23 PM UTC",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0115",
+    "technique_id": "T1496",
+    "technique_name": "Resource Hijacking",
+    "category": "cloud",
+    "alert_text": "resource hijacking attempt on GCP Compute Engine instance gke-cluster-123 with compromised service account credentials",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0116",
+    "technique_id": "T1496",
+    "technique_name": "Resource Hijacking",
+    "category": "cloud",
+    "alert_text": "new AWS IAM policy created by user jdoe that grants excessive permissions to root role, timestamp: 11:45 AM UTC",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0117",
+    "technique_id": "T1496",
+    "technique_name": "Resource Hijacking",
+    "category": "cloud",
+    "alert_text": "Azure Resource Manager (ARM) template uploaded by unknown entity, triggering potential cloud service hijacking",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0118",
+    "technique_id": "T1496",
+    "technique_name": "Resource Hijacking",
+    "category": "cloud",
+    "alert_text": "suspicious login to Google Cloud Console from unfamiliar IP address 203.0.113.10 at 04:02 AM UTC",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0119",
+    "technique_id": "T1496",
+    "technique_name": "Resource Hijacking",
+    "category": "cloud",
+    "alert_text": "GCP Storage bucket policy changed by unknown entity to allow public access, timestamp: 06:01 PM UTC",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0120",
+    "technique_id": "T1537",
+    "technique_name": "Transfer Data to Cloud Account",
+    "category": "cloud",
+    "alert_text": "Amazon S3 bucket policy modification detected on ACCOUNT-123, user accounts changed from default",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0121",
+    "technique_id": "T1537",
+    "technique_name": "Transfer Data to Cloud Account",
+    "category": "cloud",
+    "alert_text": "unusual Azure Storage Blob upload activity for application 'finance' on HOST-91",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0122",
+    "technique_id": "T1537",
+    "technique_name": "Transfer Data to Cloud Account",
+    "category": "cloud",
+    "alert_text": "Google Cloud IAM permissions elevated for user alice, added write access to sensitive data store",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0123",
+    "technique_id": "T1537",
+    "technique_name": "Transfer Data to Cloud Account",
+    "category": "cloud",
+    "alert_text": "AWS S3 bucket created with open-read policy, accessible from internet, owner: jdoe@company.com",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0124",
+    "technique_id": "T1537",
+    "technique_name": "Transfer Data to Cloud Account",
+    "category": "cloud",
+    "alert_text": "Microsoft Azure AD authentication anomaly detected for user smithj on HOST-67",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0125",
+    "technique_id": "T1537",
+    "technique_name": "Transfer Data to Cloud Account",
+    "category": "cloud",
+    "alert_text": "suspicious Amazon Web Services (AWS) credentials discovered in system files, possible cloud account compromise",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0126",
+    "technique_id": "T1537",
+    "technique_name": "Transfer Data to Cloud Account",
+    "category": "cloud",
+    "alert_text": "Google Cloud Compute Engine instance created with root access for unknown user 'devops'",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0127",
+    "technique_id": "T1021.001",
+    "technique_name": "Remote Desktop Protocol",
+    "category": "endpoint",
+    "alert_text": "unauthorized RDP connection on HOST-11, user guest, 12:45 PM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0128",
+    "technique_id": "T1021.001",
+    "technique_name": "Remote Desktop Protocol",
+    "category": "endpoint",
+    "alert_text": "RDP brute force attempt on HOST-22 from IP 192.168.1.100, 02:21 AM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0129",
+    "technique_id": "T1021.001",
+    "technique_name": "Remote Desktop Protocol",
+    "category": "endpoint",
+    "alert_text": "suspicious RDP activity detected on HOST-33, user administrator, 10:50 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0130",
+    "technique_id": "T1021.001",
+    "technique_name": "Remote Desktop Protocol",
+    "category": "endpoint",
+    "alert_text": "Remote Desktop Protocol (RDP) connection from unknown source to HOST-44, 01:05 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0131",
+    "technique_id": "T1021.001",
+    "technique_name": "Remote Desktop Protocol",
+    "category": "endpoint",
+    "alert_text": "multiple RDP sessions open on HOST-55 with high network activity, user service, 03:32 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0132",
+    "technique_id": "T1021.001",
+    "technique_name": "Remote Desktop Protocol",
+    "category": "endpoint",
+    "alert_text": "RDP access granted for non-existent user 'support' on HOST-66, 09:47 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0133",
+    "technique_id": "T1021.001",
+    "technique_name": "Remote Desktop Protocol",
+    "category": "endpoint",
+    "alert_text": "RDP connection from suspicious geo-location to HOST-77, user defaultuser, 11:01 PM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0134",
+    "technique_id": "T1003",
+    "technique_name": "OS Credential Dumping",
+    "category": "identity",
+    "alert_text": "suspicious Windows credential dump detected on DOMAIN-21, user jdoe, 01:23 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0135",
+    "technique_id": "T1003",
+    "technique_name": "OS Credential Dumping",
+    "category": "identity",
+    "alert_text": "multiple instances of Mimikatz running simultaneously on HOST-32, user root, 02:56 AM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0136",
+    "technique_id": "T1003",
+    "technique_name": "OS Credential Dumping",
+    "category": "identity",
+    "alert_text": "OS credential dump attempt via PsExec on SERVER-11, user administrator, 03:41 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0137",
+    "technique_id": "T1003",
+    "technique_name": "OS Credential Dumping",
+    "category": "identity",
+    "alert_text": "unusual access to Windows API calls for credential access on HOST-18, user guest, 12:10 AM",
+    "severity": "Low",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0138",
+    "technique_id": "T1003",
+    "technique_name": "OS Credential Dumping",
+    "category": "identity",
+    "alert_text": "suspicious use of WMI to dump credentials on DOMAIN-14, user service, 04:22 PM",
+    "severity": "High",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0139",
+    "technique_id": "T1003",
+    "technique_name": "OS Credential Dumping",
+    "category": "identity",
+    "alert_text": "multiple PowerShell scripts executing simultaneously with elevated privileges on HOST-15, user system, 05:43 AM",
+    "severity": "Critical",
+    "source": "synthetic_llama"
+  },
+  {
+    "alert_id": "SYN-0140",
+    "technique_id": "T1003",
+    "technique_name": "OS Credential Dumping",
+    "category": "identity",
+    "alert_text": "unusual use of Windows Management Instrumentation (WMI) to dump credentials on SERVER-29, user administrator, 08:19 PM",
+    "severity": "Medium",
+    "source": "synthetic_llama"
+  }
+]

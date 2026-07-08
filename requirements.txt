@@ -1,0 +1,9 @@
+﻿pandas
+chromadb
+sentence-transformers
+ollama
+requests
+jupyter
+python-dotenv
+pyarrow
+FastAPI

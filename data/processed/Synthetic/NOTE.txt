@@ -1,0 +1,9 @@
+This directory contains synthetic security alert data generated locally
+using Meta's Llama 3.1 8B model via Ollama, for Project Darkroom.
+
+These alerts are entirely fictional, generated for demonstration and
+training purposes. They are mapped to real MITRE ATT&CK technique IDs
+but the alert text itself, hostnames, usernames, and timestamps are
+invented and do not represent real events, systems, or people.
+
+Generation cost: $0 (local inference, no API calls).

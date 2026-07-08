@@ -1,0 +1,3362 @@
+[
+  {
+    "alert_id": "ALERT-0001",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 271.5ms, 136 packets forward / 175 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0002",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 523.9ms, 1406 packets forward / 1464 packets backward. High throughput: 5.8 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0003",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 684.9ms, 301 packets forward / 616 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0004",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 891.9ms, 857 packets forward / 1565 packets backward. High throughput: 3.8 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0005",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 257.9ms, 250 packets forward / 318 packets backward. High throughput: 2.7 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0006",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 4345.5ms, 8594 packets forward / 8541 packets backward. High throughput: 4.6 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0007",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 503.4ms, 271 packets forward / 566 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0008",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 337.4ms, 159 packets forward / 314 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0009",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 133.9 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0010",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 32.3ms, 1 packets forward / 108 packets backward. High throughput: 7.6 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0011",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 1195.3ms, 611 packets forward / 1633 packets backward. High throughput: 2.9 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0012",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 729.9ms, 231 packets forward / 604 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0013",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 119999.9ms, 219759 packets forward / 291922 packets backward. High throughput: 5.5 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0014",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 572.2ms, 475 packets forward / 527 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0015",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 492.8ms, 302 packets forward / 577 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0016",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 985.2ms, 658 packets forward / 1291 packets backward. High throughput: 2.8 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0017",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 1011.1ms, 353 packets forward / 478 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0018",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 19.5ms, 112 packets forward / 1 packets backward. High throughput: 11.9 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0019",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 8.0ms, 22 packets forward / 1 packets backward. High throughput: 5.7 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0020",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 130.9 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0021",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 109203.2ms, 184029 packets forward / 244716 packets backward. High throughput: 5.0 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0022",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 111485.7ms, 115727 packets forward / 147504 packets backward. High throughput: 3.6 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0023",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 140.5 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0024",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 144.0 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0025",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 852.6ms, 186 packets forward / 458 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0026",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 574.4ms, 660 packets forward / 1263 packets backward. High throughput: 3.6 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0027",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 302.8ms, 103 packets forward / 152 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0028",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 119922.7ms, 209916 packets forward / 280292 packets backward. High throughput: 5.2 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0029",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 256.6ms, 144 packets forward / 373 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0030",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 133.9 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0031",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 143.2ms, 84 packets forward / 108 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0032",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 582.4ms, 1363 packets forward / 1481 packets backward. High throughput: 5.2 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0033",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 119860.8ms, 142715 packets forward / 189636 packets backward. High throughput: 3.5 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0034",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 559.4ms, 208 packets forward / 557 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0035",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 718.1ms, 1094 packets forward / 2233 packets backward. High throughput: 7.0 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0036",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 74739.7ms, 191629 packets forward / 224490 packets backward. High throughput: 8.4 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0037",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 571.7ms, 666 packets forward / 872 packets backward. High throughput: 3.0 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0038",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 104.7 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0039",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 119999.3ms, 218658 packets forward / 291260 packets backward. High throughput: 5.4 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0040",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 660.8ms, 892 packets forward / 1774 packets backward. High throughput: 5.2 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0041",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 125.2 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0042",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 21.2ms, 43 packets forward / 1 packets backward. High throughput: 3.1 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0043",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 75434.7ms, 13 packets forward / 15 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0044",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 208.2ms, 7 packets forward / 7 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0045",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 116918.6ms, 220 packets forward / 208 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0046",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 276.2ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0047",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 77.5ms, 16 packets forward / 11 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0048",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 41.3ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0049",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 0.1ms, 2 packets forward / 3 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0050",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 30.9ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0051",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 34.5ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0052",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 110.5ms, 11 packets forward / 6 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0053",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 230.0ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0054",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 3.1ms, 3 packets forward / 0 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0055",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 31.1ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0056",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 539.0ms, 13 packets forward / 7 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0057",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 0.1ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0058",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0059",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 5730.3ms, 3 packets forward / 1 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0060",
+    "label": "Benign",
+    "suspected_technique": null,
+    "alert_text": "TCP flow observed, duration 0.2ms, 2 packets forward / 1 packets backward.",
+    "source_file": "Benign-Monday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0061",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 56.2ms, 45 packets forward / 62 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0062",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 133.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0063",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 0.8ms, 9 packets forward / 4 packets backward. High throughput: 4.4 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0064",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 11479.7ms, 16412 packets forward / 20247 packets backward. High throughput: 6.5 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0065",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 116933.8ms, 206 packets forward / 190 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0066",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 716.3ms, 27 packets forward / 30 packets backward. 1 RST flag(s) observed - connection reset detected.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0067",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 125.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0068",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 149.9ms, 67 packets forward / 91 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0069",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 1.1ms, 9 packets forward / 6 packets backward. High throughput: 5.8 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0070",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 104.8ms, 35 packets forward / 80 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0071",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 76.2ms, 27 packets forward / 51 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0072",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0073",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 97.1ms, 26 packets forward / 46 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0074",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0075",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 40.6ms, 41 packets forward / 34 packets backward. High throughput: 2.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0076",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 92.6ms, 26 packets forward / 48 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0077",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 1.0ms, 9 packets forward / 7 packets backward. High throughput: 6.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0078",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 283.7ms, 263 packets forward / 517 packets backward. High throughput: 2.8 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0079",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 95.7ms, 34 packets forward / 77 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0080",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 110.6ms, 82 packets forward / 117 packets backward. High throughput: 2.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0081",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 89.5ms, 27 packets forward / 51 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0082",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 136.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0083",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 3.2ms, 19 packets forward / 1 packets backward. High throughput: 8.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0084",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 79.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0085",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 95.7ms, 38 packets forward / 78 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0086",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 136.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0087",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 27594.8ms, 16398 packets forward / 20326 packets backward. High throughput: 2.6 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0088",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 21.5ms, 85 packets forward / 1 packets backward. High throughput: 9.1 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0089",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 5.7 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0090",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 1.0ms, 9 packets forward / 7 packets backward. High throughput: 6.1 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0091",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 80.3 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0092",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 147.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0093",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 110291.5ms, 77620 packets forward / 104354 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0094",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0095",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 1.0ms, 9 packets forward / 9 packets backward. High throughput: 6.4 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0096",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 11962.3ms, 16974 packets forward / 25799 packets backward. High throughput: 4.5 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0097",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 5.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0098",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 127.0 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0099",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 119999.7ms, 196265 packets forward / 265594 packets backward. High throughput: 4.8 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0100",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 74.5ms, 33 packets forward / 59 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0101",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 0.5ms, 7 packets forward / 4 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0102",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 108.9ms, 39 packets forward / 81 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0103",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 114.4ms, 10 packets forward / 7 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0104",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 5613.6ms, 3 packets forward / 1 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0105",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 0.2ms, 2 packets forward / 0 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0106",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 1156.5ms, 8 packets forward / 10 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0107",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 0.2ms, 3 packets forward / 0 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0108",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0109",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 71.2ms, 4 packets forward / 2 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0110",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0111",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 564.0ms, 2 packets forward / 0 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0112",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0113",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 95.8ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0114",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 48.5ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0115",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 119401.5ms, 20 packets forward / 18 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0116",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "TCP flow observed, duration 16.7ms, 3 packets forward / 1 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0117",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 85.4ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0118",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 61.0ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0119",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0120",
+    "label": "Botnet",
+    "suspected_technique": "T1071",
+    "alert_text": "UDP flow observed, duration 0.3ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Botnet-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0121",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.5ms, 25 packets forward / 1 packets backward. High throughput: 11.8 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0122",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 136.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0123",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 119997.3ms, 162890 packets forward / 228618 packets backward. High throughput: 3.9 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0124",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 6.7ms, 28 packets forward / 1 packets backward. High throughput: 8.6 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0125",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 8.2ms, 30 packets forward / 1 packets backward. High throughput: 7.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0126",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.8ms, 27 packets forward / 1 packets backward. High throughput: 11.5 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0127",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 1859.1ms, 756 packets forward / 1095 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0128",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 60431.1ms, 86656 packets forward / 115838 packets backward. High throughput: 4.2 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0129",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 10.9ms, 24 packets forward / 1 packets backward. High throughput: 4.8 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0130",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.6ms, 26 packets forward / 1 packets backward. High throughput: 11.5 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0131",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 357.4ms, 1008 packets forward / 855 packets backward. High throughput: 5.4 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0132",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.7ms, 26 packets forward / 1 packets backward. High throughput: 12.1 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0133",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.9ms, 29 packets forward / 1 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0134",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.1ms, 21 packets forward / 1 packets backward. High throughput: 11.3 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0135",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 6.5ms, 29 packets forward / 1 packets backward. High throughput: 8.9 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0136",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 119999.8ms, 185980 packets forward / 250267 packets backward. High throughput: 4.6 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0137",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 238.5ms, 58 packets forward / 196 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0138",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 117491.9ms, 82223 packets forward / 110206 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0139",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.8ms, 26 packets forward / 1 packets backward. High throughput: 11.5 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0140",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.9ms, 27 packets forward / 1 packets backward. High throughput: 11.7 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0141",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 27.2ms, 44 packets forward / 1 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0142",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 59.2 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0143",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.9ms, 28 packets forward / 1 packets backward. High throughput: 11.4 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0144",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.8ms, 29 packets forward / 1 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0145",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.9ms, 28 packets forward / 1 packets backward. High throughput: 11.4 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0146",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.8ms, 28 packets forward / 1 packets backward. High throughput: 12.2 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0147",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 119989.0ms, 146863 packets forward / 209704 packets backward. High throughput: 3.7 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0148",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 315.0ms, 55 packets forward / 168 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0149",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 6.3ms, 25 packets forward / 1 packets backward. High throughput: 8.3 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0150",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.8ms, 27 packets forward / 1 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0151",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.9ms, 24 packets forward / 1 packets backward. High throughput: 8.6 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0152",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 5.0ms, 28 packets forward / 1 packets backward. High throughput: 11.7 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0153",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 17.3ms, 28 packets forward / 1 packets backward. High throughput: 3.2 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0154",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 1342.4ms, 556 packets forward / 997 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0155",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 21.7ms, 30 packets forward / 1 packets backward. High throughput: 3.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0156",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.7ms, 27 packets forward / 1 packets backward. High throughput: 12.1 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0157",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4020.6ms, 11930 packets forward / 10252 packets backward. High throughput: 5.8 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0158",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 4.8ms, 27 packets forward / 1 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0159",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 10.9ms, 30 packets forward / 1 packets backward. High throughput: 5.3 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0160",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 6.5ms, 24 packets forward / 1 packets backward. High throughput: 8.1 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0161",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 5.4ms, 25 packets forward / 1 packets backward. High throughput: 9.7 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0162",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 7.9ms, 30 packets forward / 1 packets backward. High throughput: 7.4 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0163",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 110009.4ms, 22 packets forward / 18 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0164",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 20001.8ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0165",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 103.6ms, 4 packets forward / 2 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0166",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 65518.7ms, 14 packets forward / 14 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0167",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 0.1ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0168",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 120.7ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0169",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 0.1ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0170",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 109725.4ms, 3 packets forward / 3 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0171",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 47.4ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0172",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0173",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 30.5ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0174",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 48.1ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0175",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 62.5ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0176",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 31.5ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0177",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 320.1ms, 4 packets forward / 4 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0178",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "TCP flow observed, duration 18.7ms, 2 packets forward / 0 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0179",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0180",
+    "label": "Bruteforce",
+    "suspected_technique": "T1110",
+    "alert_text": "UDP flow observed, duration 120.6ms, 4 packets forward / 4 packets backward.",
+    "source_file": "Bruteforce-Tuesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0181",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0182",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 9.3ms, 50 packets forward / 39 packets backward. High throughput: 11.8 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0183",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0184",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0185",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0186",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 1.1ms, 9 packets forward / 6 packets backward. High throughput: 5.6 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0187",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.7ms, 35 packets forward / 27 packets backward. High throughput: 2.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0188",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.7ms, 25 packets forward / 28 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0189",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0190",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.6ms, 26 packets forward / 30 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0191",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 168.3ms, 73 packets forward / 101 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0192",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward. High throughput: 4.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0193",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 51.6ms, 41 packets forward / 36 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0194",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward. High throughput: 4.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0195",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 1.1ms, 9 packets forward / 6 packets backward. High throughput: 5.9 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0196",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 17.4ms, 54 packets forward / 43 packets backward. High throughput: 6.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0197",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0198",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 153.6ms, 69 packets forward / 105 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0199",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.4ms, 24 packets forward / 28 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0200",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 125.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0201",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.8ms, 27 packets forward / 31 packets backward. High throughput: 2.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0202",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 24.1ms, 27 packets forward / 30 packets backward. High throughput: 2.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0203",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0204",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 130.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0205",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 9.5ms, 50 packets forward / 40 packets backward. High throughput: 11.9 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0206",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.5ms, 24 packets forward / 27 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0207",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.3ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0208",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 164.3ms, 71 packets forward / 102 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0209",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.4ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0210",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward. High throughput: 617.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0211",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.9ms, 29 packets forward / 23 packets backward. High throughput: 2.6 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0212",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.8ms, 26 packets forward / 31 packets backward. High throughput: 2.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0213",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.8ms, 26 packets forward / 31 packets backward. High throughput: 2.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0214",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0215",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 8.0ms, 15 packets forward / 6 packets backward. High throughput: 2.5 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0216",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 152.0ms, 72 packets forward / 102 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0217",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward. High throughput: 4.0 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0218",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 23.9ms, 32 packets forward / 26 packets backward. High throughput: 2.7 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0219",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 9.9ms, 56 packets forward / 43 packets backward. High throughput: 11.4 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0220",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0221",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0222",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 11.1ms, 50 packets forward / 40 packets backward. High throughput: 10.2 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0223",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 10421.4ms, 56 packets forward / 87 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0224",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 95.7ms, 3 packets forward / 5 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0225",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 1723.4ms, 3 packets forward / 5 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0226",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0227",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 0.3ms, 2 packets forward / 0 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0228",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 130.6ms, 3 packets forward / 6 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0229",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 939.5ms, 3 packets forward / 6 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0230",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0231",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 1360.0ms, 3 packets forward / 5 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0232",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 1889.0ms, 3 packets forward / 6 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0233",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 86.9ms, 3 packets forward / 5 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0234",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 7989.7ms, 5 packets forward / 0 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0235",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 10686.0ms, 5 packets forward / 0 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0236",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 1494.3ms, 6 packets forward / 2 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0237",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 72656.4ms, 6 packets forward / 9 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0238",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 277.2ms, 7 packets forward / 2 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0239",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 1013.0ms, 3 packets forward / 5 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0240",
+    "label": "DDoS",
+    "suspected_technique": "T1498",
+    "alert_text": "TCP flow observed, duration 81877.7ms, 5 packets forward / 9 packets backward.",
+    "source_file": "DDoS-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0241",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 2189.3ms, 846 packets forward / 1092 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0242",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 4.5ms, 26 packets forward / 1 packets backward. High throughput: 11.6 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0243",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 112.8ms, 44 packets forward / 86 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0244",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 3825.8ms, 5332 packets forward / 6681 packets backward. High throughput: 3.8 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0245",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 127.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0246",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 338.6ms, 772 packets forward / 937 packets backward. High throughput: 5.2 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0247",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 1258.3ms, 944 packets forward / 1228 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0248",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 14.5ms, 74 packets forward / 1 packets backward. High throughput: 11.3 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0249",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 95131.2ms, 121885 packets forward / 158184 packets backward. High throughput: 3.7 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0250",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 4.7ms, 27 packets forward / 1 packets backward. High throughput: 12.3 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0251",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 6.8ms, 1 packets forward / 26 packets backward. High throughput: 8.2 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0252",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 360.8ms, 372 packets forward / 485 packets backward. High throughput: 3.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0253",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 41749.1ms, 112141 packets forward / 157388 packets backward. High throughput: 9.6 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0254",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 4.6ms, 28 packets forward / 1 packets backward. High throughput: 11.5 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0255",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 14.0ms, 66 packets forward / 41 packets backward. High throughput: 6.6 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0256",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 8.6ms, 32 packets forward / 1 packets backward. High throughput: 7.7 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0257",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 6.1ms, 28 packets forward / 1 packets backward. High throughput: 9.5 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0258",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 599.2ms, 346 packets forward / 603 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0259",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 4.8ms, 28 packets forward / 1 packets backward. High throughput: 11.9 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0260",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 119843.2ms, 180892 packets forward / 230419 packets backward. High throughput: 4.3 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0261",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 122.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0262",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 119998.6ms, 200332 packets forward / 270602 packets backward. High throughput: 4.9 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0263",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 4.6ms, 25 packets forward / 1 packets backward. High throughput: 12.1 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0264",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 21.6ms, 112 packets forward / 1 packets backward. High throughput: 11.7 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0265",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 3082.9ms, 6930 packets forward / 9877 packets backward. High throughput: 7.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0266",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 23.2ms, 24 packets forward / 1 packets backward. High throughput: 2.2 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0267",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 12773.4ms, 8725 packets forward / 7880 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0268",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 23.4ms, 1 packets forward / 39 packets backward. High throughput: 2.8 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0269",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 14.6ms, 24 packets forward / 1 packets backward. High throughput: 3.3 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0270",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 4.8ms, 27 packets forward / 1 packets backward. High throughput: 11.9 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0271",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 225.6ms, 95 packets forward / 182 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0272",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 532.4ms, 360 packets forward / 585 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0273",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 404.8ms, 202 packets forward / 482 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0274",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 196.4ms, 60 packets forward / 126 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0275",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 18.2ms, 22 packets forward / 1 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0276",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 7034.5ms, 93 packets forward / 116 packets backward. 1 RST flag(s) observed - connection reset detected.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0277",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 4.7ms, 27 packets forward / 1 packets backward. High throughput: 12.2 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0278",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 70.6 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0279",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 6.8ms, 29 packets forward / 1 packets backward. High throughput: 9.5 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0280",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 26.1ms, 1 packets forward / 27 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0281",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 127.7ms, 84 packets forward / 125 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0282",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 5082.6ms, 9437 packets forward / 10913 packets backward. High throughput: 4.6 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0283",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 99864.7ms, 5 packets forward / 7 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0284",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 85025.2ms, 9 packets forward / 6 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0285",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 61.7ms, 2 packets forward / 2 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0286",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 10216.9ms, 9 packets forward / 10 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0287",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 0.8ms, 4 packets forward / 0 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0288",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 47.8ms, 2 packets forward / 2 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0289",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 85843.3ms, 7 packets forward / 5 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0290",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 0.1ms, 1 packets forward / 1 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0291",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 115615.8ms, 16 packets forward / 14 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0292",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 31.0ms, 2 packets forward / 2 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0293",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 11788.8ms, 7 packets forward / 5 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0294",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 99942.7ms, 9 packets forward / 6 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0295",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 98241.8ms, 7 packets forward / 6 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0296",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 48.6ms, 2 packets forward / 2 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0297",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 31.3ms, 1 packets forward / 1 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0298",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 0.3ms, 2 packets forward / 2 packets backward. High throughput: 1.8 MB/s.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0299",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "UDP flow observed, duration 0.6ms, 1 packets forward / 1 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0300",
+    "label": "DoS",
+    "suspected_technique": "T1499",
+    "alert_text": "TCP flow observed, duration 96.7ms, 1 packets forward / 1 packets backward.",
+    "source_file": "DoS-Wednesday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0301",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 23.2ms, 107 packets forward / 1 packets backward. High throughput: 10.6 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0302",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 11.9ms, 28 packets forward / 1 packets backward. High throughput: 4.6 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0303",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 6.0ms, 27 packets forward / 1 packets backward. High throughput: 9.5 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0304",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 35.4ms, 1 packets forward / 156 packets backward. High throughput: 10.2 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0305",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 602.7ms, 395 packets forward / 601 packets backward. High throughput: 2.3 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0306",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 438.8ms, 899 packets forward / 1043 packets backward. High throughput: 4.5 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0307",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 8.1ms, 29 packets forward / 1 packets backward. High throughput: 7.1 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0308",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 9.6ms, 30 packets forward / 1 packets backward. High throughput: 6.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0309",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.6ms, 27 packets forward / 1 packets backward. High throughput: 12.1 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0310",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 5.4ms, 28 packets forward / 1 packets backward. High throughput: 10.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0311",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 138.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0312",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.9ms, 28 packets forward / 1 packets backward. High throughput: 11.9 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0313",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 15.2ms, 27 packets forward / 1 packets backward. High throughput: 3.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0314",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 7.2ms, 28 packets forward / 1 packets backward. High throughput: 8.1 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0315",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 17.2ms, 88 packets forward / 1 packets backward. High throughput: 11.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0316",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 235.5ms, 71 packets forward / 111 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0317",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 1226.5ms, 1162 packets forward / 1464 packets backward. High throughput: 2.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0318",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 24.8ms, 1 packets forward / 90 packets backward. High throughput: 8.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0319",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 6.9ms, 29 packets forward / 1 packets backward. High throughput: 8.4 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0320",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 5.5ms, 30 packets forward / 1 packets backward. High throughput: 11.6 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0321",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.8ms, 28 packets forward / 1 packets backward. High throughput: 12.1 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0322",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 25.2ms, 1 packets forward / 74 packets backward. High throughput: 6.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0323",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 52.2ms, 241 packets forward / 133 packets backward. High throughput: 9.1 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0324",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 50.6ms, 225 packets forward / 42 packets backward. High throughput: 8.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0325",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 811.1ms, 1081 packets forward / 1507 packets backward. High throughput: 4.2 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0326",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 791.6ms, 1730 packets forward / 2187 packets backward. High throughput: 5.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0327",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 469.4ms, 1012 packets forward / 1182 packets backward. High throughput: 4.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0328",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 9.8ms, 27 packets forward / 1 packets backward. High throughput: 5.9 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0329",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.8ms, 29 packets forward / 1 packets backward. High throughput: 11.5 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0330",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 5.6ms, 28 packets forward / 1 packets backward. High throughput: 9.9 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0331",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 377.2ms, 835 packets forward / 1463 packets backward. High throughput: 9.1 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0332",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 647.5ms, 893 packets forward / 1488 packets backward. High throughput: 5.3 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0333",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.8ms, 27 packets forward / 1 packets backward. High throughput: 11.9 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0334",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 5.4ms, 30 packets forward / 1 packets backward. High throughput: 10.9 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0335",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 11.9ms, 26 packets forward / 1 packets backward. High throughput: 4.4 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0336",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 5.2ms, 26 packets forward / 1 packets backward. High throughput: 11.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0337",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.5ms, 26 packets forward / 1 packets backward. High throughput: 11.7 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0338",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 19.3ms, 30 packets forward / 1 packets backward. High throughput: 3.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0339",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 142.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0340",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 420.4ms, 180 packets forward / 304 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0341",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.8ms, 27 packets forward / 1 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0342",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 138.0 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0343",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0344",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 32.8ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0345",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0346",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 46.5ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0347",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0348",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 10.0ms, 3 packets forward / 0 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0349",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 62824.6ms, 25 packets forward / 25 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0350",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 5131.6ms, 5 packets forward / 1 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0351",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.8ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0352",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 116.2ms, 2 packets forward / 1 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0353",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0354",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 7.9ms, 2 packets forward / 0 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0355",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.3ms, 2 packets forward / 2 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0356",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 389.7ms, 7 packets forward / 6 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0357",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 3724.5ms, 3 packets forward / 1 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0358",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 46.8ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0359",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 31.8ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0360",
+    "label": "Infiltration",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.8 MB/s.",
+    "source_file": "Infiltration-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0361",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0362",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 9.6ms, 51 packets forward / 50 packets backward. High throughput: 11.8 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0363",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0364",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0365",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0366",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0367",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0368",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0369",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 0.5ms, 11 packets forward / 4 packets backward. High throughput: 1.1 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0370",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0371",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 147.0 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0372",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.4ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0373",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0374",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0375",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0376",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 13.3ms, 49 packets forward / 40 packets backward. High throughput: 8.1 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0377",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.3 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0378",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 130.0 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0379",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 112795.0ms, 32 packets forward / 16 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0380",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 133.0 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0381",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0382",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 23.8ms, 28 packets forward / 31 packets backward. High throughput: 2.5 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0383",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0384",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 658.0ms, 714 packets forward / 1146 packets backward. High throughput: 3.5 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0385",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0386",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0387",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.0 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0388",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 120.0 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0389",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0390",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0391",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 23.9ms, 29 packets forward / 24 packets backward. High throughput: 2.6 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0392",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 23.7ms, 36 packets forward / 26 packets backward. High throughput: 2.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0393",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0394",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 2.2 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0395",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0396",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 23.8ms, 24 packets forward / 29 packets backward. High throughput: 2.3 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0397",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0398",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 23.9ms, 33 packets forward / 28 packets backward. High throughput: 2.6 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0399",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.3ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0400",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 4.6 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0401",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 1.1ms, 9 packets forward / 6 packets backward. High throughput: 5.6 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0402",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0403",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 119.8ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0404",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 0.9ms, 3 packets forward / 1 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0405",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 90.8ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0406",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 23.6ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0407",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 30500.7ms, 6 packets forward / 6 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0408",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 115217.1ms, 16 packets forward / 14 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0409",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0410",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 60.5ms, 4 packets forward / 2 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0411",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0412",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.8ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0413",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 1388.9ms, 9 packets forward / 8 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0414",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 130.9ms, 20 packets forward / 25 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0415",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.4ms, 1 packets forward / 1 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0416",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 55171.8ms, 2 packets forward / 2 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0417",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 0.2ms, 2 packets forward / 0 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0418",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 0.3ms, 2 packets forward / 0 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0419",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "TCP flow observed, duration 116104.5ms, 21 packets forward / 20 packets backward.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0420",
+    "label": "Portscan",
+    "suspected_technique": "T1046",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "Portscan-Friday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0421",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0422",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 72.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0423",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.1ms, 2 packets forward / 2 packets backward. High throughput: 2.2 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0424",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0425",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 1.0ms, 2 packets forward / 2 packets backward. High throughput: 3.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0426",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0427",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 12915.2ms, 15387 packets forward / 26231 packets backward. High throughput: 4.0 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0428",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 11.5ms, 61 packets forward / 1 packets backward. High throughput: 11.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0429",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 0.0ms, 2 packets forward / 0 packets backward. High throughput: 4.0 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0430",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 1935.0ms, 2205 packets forward / 3358 packets backward. High throughput: 3.1 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0431",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 119996.8ms, 200755 packets forward / 270686 packets backward. High throughput: 4.9 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0432",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0433",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 241.4ms, 112 packets forward / 148 packets backward. High throughput: 1.2 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0434",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.7ms, 2 packets forward / 2 packets backward. High throughput: 4.9 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0435",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0436",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 181.1ms, 87 packets forward / 119 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0437",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 1.1ms, 9 packets forward / 6 packets backward. High throughput: 5.8 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0438",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 119999.4ms, 199057 packets forward / 269619 packets backward. High throughput: 4.9 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0439",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 49.7 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0440",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 132.0 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0441",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 4.1ms, 22 packets forward / 1 packets backward. High throughput: 11.5 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0442",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 3.9ms, 21 packets forward / 1 packets backward. High throughput: 12.0 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0443",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.6ms, 2 packets forward / 2 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0444",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 143.0 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0445",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 448.3ms, 200 packets forward / 422 packets backward. High throughput: 1.5 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0446",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 69775.9ms, 108687 packets forward / 147541 packets backward. High throughput: 4.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0447",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.3ms, 2 packets forward / 2 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0448",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 119998.8ms, 174013 packets forward / 232402 packets backward. High throughput: 4.3 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0449",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.4 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0450",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.1 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0451",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 56.4 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0452",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 13.6ms, 63 packets forward / 1 packets backward. High throughput: 9.2 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0453",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 5.5ms, 31 packets forward / 1 packets backward. High throughput: 11.9 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0454",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.6 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0455",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0456",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 66.8 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0457",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.3 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0458",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.1ms, 26 packets forward / 0 packets backward. High throughput: 71.7 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0459",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 202.2ms, 135 packets forward / 189 packets backward. High throughput: 1.8 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0460",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 1120.1ms, 31 packets forward / 29 packets backward. 1 RST flag(s) observed - connection reset detected.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0461",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 2.0 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0462",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.0ms, 26 packets forward / 0 packets backward. High throughput: 135.0 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0463",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 1024.7ms, 2 packets forward / 2 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0464",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 41.3ms, 2 packets forward / 2 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0465",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 48.3ms, 1 packets forward / 1 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0466",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 3653.2ms, 2 packets forward / 2 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0467",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 35.3ms, 1 packets forward / 1 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0468",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.3ms, 2 packets forward / 2 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0469",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 81.6ms, 1 packets forward / 1 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0470",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 49.1ms, 1 packets forward / 1 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0471",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 0.0ms, 1 packets forward / 1 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0472",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 46816.4ms, 8 packets forward / 8 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0473",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 35140.4ms, 13 packets forward / 8 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0474",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 110.5ms, 9 packets forward / 7 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0475",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.9 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0476",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 60.4ms, 2 packets forward / 2 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0477",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 115844.7ms, 410 packets forward / 423 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0478",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 0.2ms, 2 packets forward / 2 packets backward. High throughput: 1.7 MB/s.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0479",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "TCP flow observed, duration 35.5ms, 4 packets forward / 1 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  },
+  {
+    "alert_id": "ALERT-0480",
+    "label": "WebAttacks",
+    "suspected_technique": "T1190",
+    "alert_text": "UDP flow observed, duration 60.2ms, 1 packets forward / 1 packets backward.",
+    "source_file": "WebAttacks-Thursday-no-metadata.parquet"
+  }
+]

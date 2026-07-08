@@ -1,0 +1,2522 @@
+[
+  {
+    "alert_id": "SYN-0001",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059",
+    "predicted_technique": "T1059.003",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1059.003",
+      "T1218.003",
+      "T1039"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0002",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059",
+    "predicted_technique": "T1548.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1548.002",
+      "T1056.002",
+      "T1216.002"
+    ],
+    "severity": "Medium",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0003",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059",
+    "predicted_technique": "T1216.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1216.002",
+      "T1216.001",
+      "T1059.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0004",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059",
+    "predicted_technique": "T1059.006",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1036.011",
+      "T1059.006",
+      "T1546.018"
+    ],
+    "severity": "Medium",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0005",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059",
+    "predicted_technique": "T1053.005",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1053.005",
+      "T1053",
+      "T1053.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0006",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059",
+    "predicted_technique": "T1563.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1070.003",
+      "T1546.004",
+      "T1563.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0007",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059",
+    "predicted_technique": "T1059.003",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1059.003",
+      "T1021.006",
+      "T1056.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0008",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059.001",
+    "predicted_technique": "T1059.001",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1059.001",
+      "T1546.013",
+      "T1216.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0009",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059.001",
+    "predicted_technique": "T1546.013",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1546.013",
+      "T1059.001",
+      "T1552.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0010",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059.001",
+    "predicted_technique": "T1059.001",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1059.001",
+      "T1574.007",
+      "T1134.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0011",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059.001",
+    "predicted_technique": "T1546.013",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1574.011",
+      "T1546.013",
+      "T1112"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0012",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059.001",
+    "predicted_technique": "T1059.001",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1059.001",
+      "T1059.002",
+      "T1546.013"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0013",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059.001",
+    "predicted_technique": "T1059.001",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1059.001",
+      "T1134.004",
+      "T1057"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0014",
+    "category": "endpoint",
+    "ground_truth_technique": "T1059.001",
+    "predicted_technique": "T1546.013",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1546.013",
+      "T1059.001",
+      "T1552.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0015",
+    "category": "endpoint",
+    "ground_truth_technique": "T1053",
+    "predicted_technique": "T1053.005",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1053.005",
+      "T1053.003",
+      "T1053"
+    ],
+    "severity": "Medium",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0016",
+    "category": "endpoint",
+    "ground_truth_technique": "T1053",
+    "predicted_technique": "T1218.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1218.003",
+      "T1059.003",
+      "T1039"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0017",
+    "category": "endpoint",
+    "ground_truth_technique": "T1053",
+    "predicted_technique": "T1053.005",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1053.005",
+      "T1216.002",
+      "T1574.014"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0018",
+    "category": "endpoint",
+    "ground_truth_technique": "T1053",
+    "predicted_technique": "T1053",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1053.002",
+      "T1053",
+      "T1053.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0019",
+    "category": "endpoint",
+    "ground_truth_technique": "T1053",
+    "predicted_technique": "T1053.005",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1053.005",
+      "T1053.002",
+      "T1059.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0020",
+    "category": "endpoint",
+    "ground_truth_technique": "T1053",
+    "predicted_technique": "T1053.005",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1053.005",
+      "T1053",
+      "T1053.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0021",
+    "category": "endpoint",
+    "ground_truth_technique": "T1053",
+    "predicted_technique": "T1685.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1685.001",
+      "T1685.004",
+      "T1053.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0022",
+    "category": "endpoint",
+    "ground_truth_technique": "T1547",
+    "predicted_technique": "T1112",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1552.002",
+      "T1112",
+      "T1556.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0023",
+    "category": "endpoint",
+    "ground_truth_technique": "T1547",
+    "predicted_technique": "T1547.001",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1547.001",
+      "T1552.002",
+      "T1112"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0024",
+    "category": "endpoint",
+    "ground_truth_technique": "T1547",
+    "predicted_technique": "T1059.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1546.013",
+      "T1059.001",
+      "T1037.003"
+    ],
+    "severity": "Medium",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0025",
+    "category": "endpoint",
+    "ground_truth_technique": "T1547",
+    "predicted_technique": "T1543.004",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1543.004",
+      "T1543.001",
+      "T1037.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0026",
+    "category": "endpoint",
+    "ground_truth_technique": "T1547",
+    "predicted_technique": "T1543.004",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1543.004",
+      "T1543",
+      "T1543.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0027",
+    "category": "endpoint",
+    "ground_truth_technique": "T1547",
+    "predicted_technique": "T1037.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1037.002",
+      "T1070.003",
+      "T1098.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0028",
+    "category": "endpoint",
+    "ground_truth_technique": "T1547",
+    "predicted_technique": "T1543.004",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1543.004",
+      "T1037.005",
+      "T1543.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0029",
+    "category": "endpoint",
+    "ground_truth_technique": "T1055",
+    "predicted_technique": "T1055.003",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1055.003",
+      "T1574.014",
+      "T1216.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0030",
+    "category": "endpoint",
+    "ground_truth_technique": "T1055",
+    "predicted_technique": "T1055.003",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1055.003",
+      "T1055.012",
+      "T1546.009"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0031",
+    "category": "endpoint",
+    "ground_truth_technique": "T1055",
+    "predicted_technique": "T1546.010",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1546.010",
+      "T1574.001",
+      "T1547.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0032",
+    "category": "endpoint",
+    "ground_truth_technique": "T1055",
+    "predicted_technique": "T1055.003",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1055.003",
+      "T1569.002",
+      "T1218.012"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0033",
+    "category": "endpoint",
+    "ground_truth_technique": "T1055",
+    "predicted_technique": "T1056.004",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1056.004",
+      "T1218.007",
+      "T1547.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0034",
+    "category": "endpoint",
+    "ground_truth_technique": "T1055",
+    "predicted_technique": "T1055.001",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1546.010",
+      "T1055.001",
+      "T1546.009"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0035",
+    "category": "endpoint",
+    "ground_truth_technique": "T1055",
+    "predicted_technique": "T1055",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1055.003",
+      "T1569",
+      "T1055"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0036",
+    "category": "endpoint",
+    "ground_truth_technique": "T1112",
+    "predicted_technique": "T1112",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1574.011",
+      "T1112",
+      "T1218.009"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0037",
+    "category": "endpoint",
+    "ground_truth_technique": "T1112",
+    "predicted_technique": "T1112",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1112",
+      "T1574.011",
+      "T1686.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0038",
+    "category": "endpoint",
+    "ground_truth_technique": "T1112",
+    "predicted_technique": "T1112",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1574.011",
+      "T1112",
+      "T1552.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0039",
+    "category": "endpoint",
+    "ground_truth_technique": "T1112",
+    "predicted_technique": "T1112",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1112",
+      "T1574.011",
+      "T1218.009"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0040",
+    "category": "endpoint",
+    "ground_truth_technique": "T1112",
+    "predicted_technique": "T1552.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1552.002",
+      "T1574.011",
+      "T1112"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0041",
+    "category": "endpoint",
+    "ground_truth_technique": "T1112",
+    "predicted_technique": "T1053",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1053.002",
+      "T1053.005",
+      "T1053"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0042",
+    "category": "endpoint",
+    "ground_truth_technique": "T1112",
+    "predicted_technique": "T1112",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1176",
+      "T1112",
+      "T1218.010"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0043",
+    "category": "identity",
+    "ground_truth_technique": "T1078",
+    "predicted_technique": "T1098",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1531",
+      "T1098",
+      "T1003.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0044",
+    "category": "identity",
+    "ground_truth_technique": "T1078",
+    "predicted_technique": "T1033",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1033",
+      "T1685.006",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0045",
+    "category": "identity",
+    "ground_truth_technique": "T1078",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1685.001",
+      "T1685.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0046",
+    "category": "identity",
+    "ground_truth_technique": "T1078",
+    "predicted_technique": "T1078",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1078",
+      "T1037.003",
+      "T1078.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0047",
+    "category": "identity",
+    "ground_truth_technique": "T1078",
+    "predicted_technique": "T1110.004",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1087.001",
+      "T1110.004",
+      "T1033"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0048",
+    "category": "identity",
+    "ground_truth_technique": "T1078",
+    "predicted_technique": "T1591.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1591.003",
+      "T1597.002",
+      "T1681"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0049",
+    "category": "identity",
+    "ground_truth_technique": "T1078",
+    "predicted_technique": "T1110",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1531",
+      "T1201",
+      "T1110"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0050",
+    "category": "identity",
+    "ground_truth_technique": "T1110",
+    "predicted_technique": "T1563.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563.001",
+      "T1021.004",
+      "T1098.004"
+    ],
+    "severity": "Medium",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0051",
+    "category": "identity",
+    "ground_truth_technique": "T1110",
+    "predicted_technique": "T1036.012",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1036.012",
+      "T1003",
+      "T1586"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0052",
+    "category": "identity",
+    "ground_truth_technique": "T1110",
+    "predicted_technique": "T1110.003",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1021",
+      "T1556",
+      "T1110.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0053",
+    "category": "identity",
+    "ground_truth_technique": "T1110",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1070.007",
+      "T1563"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0054",
+    "category": "identity",
+    "ground_truth_technique": "T1110",
+    "predicted_technique": "T1110",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1110",
+      "T1590.005",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0055",
+    "category": "identity",
+    "ground_truth_technique": "T1110",
+    "predicted_technique": "T1110",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1563",
+      "T1110",
+      "T1056.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0056",
+    "category": "identity",
+    "ground_truth_technique": "T1110",
+    "predicted_technique": "T1586",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1003",
+      "T1003.002",
+      "T1586"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0057",
+    "category": "identity",
+    "ground_truth_technique": "T1098",
+    "predicted_technique": "T1003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1003.002",
+      "T1003",
+      "T1556.004"
+    ],
+    "severity": "Medium",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0058",
+    "category": "identity",
+    "ground_truth_technique": "T1098",
+    "predicted_technique": "T1556",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1033",
+      "T1556",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0059",
+    "category": "identity",
+    "ground_truth_technique": "T1098",
+    "predicted_technique": "T1563",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563",
+      "T1104",
+      "T1556.007"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0060",
+    "category": "identity",
+    "ground_truth_technique": "T1098",
+    "predicted_technique": "T1110",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1201",
+      "T1110",
+      "T1531"
+    ],
+    "severity": "Medium",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0061",
+    "category": "identity",
+    "ground_truth_technique": "T1098",
+    "predicted_technique": "T1003.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1003.002",
+      "T1078.001",
+      "T1036.010"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0062",
+    "category": "identity",
+    "ground_truth_technique": "T1098",
+    "predicted_technique": "T1556",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1556",
+      "T1556.004",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0063",
+    "category": "identity",
+    "ground_truth_technique": "T1098",
+    "predicted_technique": "T1552.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1486",
+      "T1552.001",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0064",
+    "category": "identity",
+    "ground_truth_technique": "T1136",
+    "predicted_technique": "T1078.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1078.003",
+      "T1003.002",
+      "T1136.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0065",
+    "category": "identity",
+    "ground_truth_technique": "T1136",
+    "predicted_technique": "T1087.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1087.002",
+      "T1584.005",
+      "T1033"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0066",
+    "category": "identity",
+    "ground_truth_technique": "T1136",
+    "predicted_technique": "T1548.005",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1548.005",
+      "T1531",
+      "T1548.003"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0067",
+    "category": "identity",
+    "ground_truth_technique": "T1136",
+    "predicted_technique": "T1036.010",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1036.010",
+      "T1531",
+      "T1087.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0068",
+    "category": "identity",
+    "ground_truth_technique": "T1136",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563",
+      "T1563.002",
+      "T1036.010"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0069",
+    "category": "identity",
+    "ground_truth_technique": "T1136",
+    "predicted_technique": "T1136.003",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1136.003",
+      "T1003.002",
+      "T1078.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0070",
+    "category": "identity",
+    "ground_truth_technique": "T1136",
+    "predicted_technique": "T1087.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1087.001",
+      "T1033",
+      "T1078.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0071",
+    "category": "identity",
+    "ground_truth_technique": "T1531",
+    "predicted_technique": "T1531",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1531",
+      "T1003",
+      "T1003.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0072",
+    "category": "identity",
+    "ground_truth_technique": "T1531",
+    "predicted_technique": "T1087.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1207",
+      "T1087.002",
+      "T1069"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0073",
+    "category": "identity",
+    "ground_truth_technique": "T1531",
+    "predicted_technique": "T1531",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1531",
+      "T1070.005",
+      "T1070.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0074",
+    "category": "identity",
+    "ground_truth_technique": "T1531",
+    "predicted_technique": "T1069.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1069.001",
+      "T1531",
+      "T1222"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0075",
+    "category": "identity",
+    "ground_truth_technique": "T1531",
+    "predicted_technique": "T1531",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1531",
+      "T1036.010",
+      "T1078.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0076",
+    "category": "identity",
+    "ground_truth_technique": "T1531",
+    "predicted_technique": "T1201",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1201",
+      "T1003.006",
+      "T1558.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0077",
+    "category": "identity",
+    "ground_truth_technique": "T1531",
+    "predicted_technique": "T1531",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1531",
+      "T1556",
+      "T1586"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0078",
+    "category": "identity",
+    "ground_truth_technique": "T1621",
+    "predicted_technique": "T1621",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1098.005",
+      "T1621",
+      "T1111"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0079",
+    "category": "identity",
+    "ground_truth_technique": "T1621",
+    "predicted_technique": "T1040",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1557.004",
+      "T1040",
+      "T1016.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0080",
+    "category": "identity",
+    "ground_truth_technique": "T1621",
+    "predicted_technique": "T1621",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1621",
+      "T1098.005",
+      "T1556.006"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0081",
+    "category": "identity",
+    "ground_truth_technique": "T1621",
+    "predicted_technique": "T1621",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1621",
+      "T1036.012",
+      "T1111"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0082",
+    "category": "identity",
+    "ground_truth_technique": "T1621",
+    "predicted_technique": "T1621",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1621",
+      "T1556.006",
+      "T1586.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0083",
+    "category": "identity",
+    "ground_truth_technique": "T1621",
+    "predicted_technique": "T1621",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1621",
+      "T1556.006",
+      "T1056.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0084",
+    "category": "identity",
+    "ground_truth_technique": "T1621",
+    "predicted_technique": "T1621",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1621",
+      "T1098.005",
+      "T1556.006"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0085",
+    "category": "identity",
+    "ground_truth_technique": "T1552",
+    "predicted_technique": "T1552.001",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1552.006",
+      "T1552.001",
+      "T1556.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0086",
+    "category": "identity",
+    "ground_truth_technique": "T1552",
+    "predicted_technique": "T1003.005",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1003.005",
+      "T1558.004",
+      "T1003.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0087",
+    "category": "identity",
+    "ground_truth_technique": "T1552",
+    "predicted_technique": "T1187",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1187",
+      "T1003.006",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0088",
+    "category": "identity",
+    "ground_truth_technique": "T1552",
+    "predicted_technique": "T1021.008",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1021.008",
+      "T1098.003",
+      "T1552.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0089",
+    "category": "identity",
+    "ground_truth_technique": "T1552",
+    "predicted_technique": "T1558",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1558",
+      "T1558.001",
+      "T1558.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0090",
+    "category": "identity",
+    "ground_truth_technique": "T1552",
+    "predicted_technique": "T1552",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1555.003",
+      "T1003.005",
+      "T1552"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0091",
+    "category": "identity",
+    "ground_truth_technique": "T1552",
+    "predicted_technique": "T1587.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1587.003",
+      "T1553.004",
+      "T1588.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0092",
+    "category": "cloud",
+    "ground_truth_technique": "T1530",
+    "predicted_technique": "T1580",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1580",
+      "T1614",
+      "T1485.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0093",
+    "category": "cloud",
+    "ground_truth_technique": "T1530",
+    "predicted_technique": "T1580",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1580",
+      "T1538",
+      "T1537"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0094",
+    "category": "cloud",
+    "ground_truth_technique": "T1530",
+    "predicted_technique": "T1619",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1619",
+      "T1485.001",
+      "T1525"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0095",
+    "category": "cloud",
+    "ground_truth_technique": "T1530",
+    "predicted_technique": "T1614",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1614",
+      "T1584.007",
+      "T1496.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0096",
+    "category": "cloud",
+    "ground_truth_technique": "T1530",
+    "predicted_technique": "T1222",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1222",
+      "T1222.002",
+      "T1548.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0097",
+    "category": "cloud",
+    "ground_truth_technique": "T1530",
+    "predicted_technique": "T1530",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1578.004",
+      "T1530",
+      "T1537"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0098",
+    "category": "cloud",
+    "ground_truth_technique": "T1530",
+    "predicted_technique": "T1548.005",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1548.005",
+      "T1526",
+      "T1651"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0099",
+    "category": "cloud",
+    "ground_truth_technique": "T1078.004",
+    "predicted_technique": "T1078.001",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1078.001",
+      "T1606",
+      "T1563"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0100",
+    "category": "cloud",
+    "ground_truth_technique": "T1078.004",
+    "predicted_technique": "T1021.007",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1021.007",
+      "T1538",
+      "T1584.007"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0101",
+    "category": "cloud",
+    "ground_truth_technique": "T1078.004",
+    "predicted_technique": "T1136.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1136.003",
+      "T1098.001",
+      "T1087.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0102",
+    "category": "cloud",
+    "ground_truth_technique": "T1078.004",
+    "predicted_technique": "T1098.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1098.003",
+      "T1556.009",
+      "T1666"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0103",
+    "category": "cloud",
+    "ground_truth_technique": "T1078.004",
+    "predicted_technique": "T1098.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1556.006",
+      "T1098.003",
+      "T1199"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0104",
+    "category": "cloud",
+    "ground_truth_technique": "T1078.004",
+    "predicted_technique": "T1578.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1578.002",
+      "T1485.001",
+      "T1578.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0105",
+    "category": "cloud",
+    "ground_truth_technique": "T1078.004",
+    "predicted_technique": "T1649",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1649",
+      "T1556.006",
+      "T1098.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0106",
+    "category": "cloud",
+    "ground_truth_technique": "T1526",
+    "predicted_technique": "T1673",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1673",
+      "T1651",
+      "T1087.004"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0107",
+    "category": "cloud",
+    "ground_truth_technique": "T1526",
+    "predicted_technique": "T1580",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1580",
+      "T1485.001",
+      "T1586.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0108",
+    "category": "cloud",
+    "ground_truth_technique": "T1526",
+    "predicted_technique": "T1021.007",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1021.007",
+      "T1537",
+      "T1555.006"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0109",
+    "category": "cloud",
+    "ground_truth_technique": "T1526",
+    "predicted_technique": "T1526",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1526",
+      "T1614",
+      "T1595.002"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0110",
+    "category": "cloud",
+    "ground_truth_technique": "T1526",
+    "predicted_technique": "T1098.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1098.003",
+      "T1087.004",
+      "T1078.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0111",
+    "category": "cloud",
+    "ground_truth_technique": "T1526",
+    "predicted_technique": "T1484.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1484.002",
+      "T1649",
+      "T1556.006"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0112",
+    "category": "cloud",
+    "ground_truth_technique": "T1526",
+    "predicted_technique": "T1021.007",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1021.007",
+      "T1021.008",
+      "T1686.001"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0113",
+    "category": "cloud",
+    "ground_truth_technique": "T1496",
+    "predicted_technique": "T1098.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1098.003",
+      "T1666",
+      "T1078.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0114",
+    "category": "cloud",
+    "ground_truth_technique": "T1496",
+    "predicted_technique": "T1537",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1614",
+      "T1537",
+      "T1619"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0115",
+    "category": "cloud",
+    "ground_truth_technique": "T1496",
+    "predicted_technique": "T1021.007",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1021.007",
+      "T1578.005",
+      "T1496.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0116",
+    "category": "cloud",
+    "ground_truth_technique": "T1496",
+    "predicted_technique": "T1098.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1098.003",
+      "T1666",
+      "T1556.009"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0117",
+    "category": "cloud",
+    "ground_truth_technique": "T1496",
+    "predicted_technique": "T1666",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1666",
+      "T1496.004",
+      "T1204.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0118",
+    "category": "cloud",
+    "ground_truth_technique": "T1496",
+    "predicted_technique": "T1021.007",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1021.007",
+      "T1538",
+      "T1021.008"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0119",
+    "category": "cloud",
+    "ground_truth_technique": "T1496",
+    "predicted_technique": "T1485.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1485.001",
+      "T1548.005",
+      "T1556.009"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0120",
+    "category": "cloud",
+    "ground_truth_technique": "T1537",
+    "predicted_technique": "T1098.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1098.003",
+      "T1485.001",
+      "T1078.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0121",
+    "category": "cloud",
+    "ground_truth_technique": "T1537",
+    "predicted_technique": "T1537",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1619",
+      "T1537",
+      "T1530"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0122",
+    "category": "cloud",
+    "ground_truth_technique": "T1537",
+    "predicted_technique": "T1098.003",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1098.003",
+      "T1548.005",
+      "T1136.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0123",
+    "category": "cloud",
+    "ground_truth_technique": "T1537",
+    "predicted_technique": "T1485.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1485.001",
+      "T1580",
+      "T1530"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0124",
+    "category": "cloud",
+    "ground_truth_technique": "T1537",
+    "predicted_technique": "T1556.006",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1556.006",
+      "T1649",
+      "T1556.007"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0125",
+    "category": "cloud",
+    "ground_truth_technique": "T1537",
+    "predicted_technique": "T1555.006",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1555.006",
+      "T1078.001",
+      "T1586.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0126",
+    "category": "cloud",
+    "ground_truth_technique": "T1537",
+    "predicted_technique": "T1578.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1578.003",
+      "T1578.002",
+      "T1136.003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0127",
+    "category": "endpoint",
+    "ground_truth_technique": "T1021.001",
+    "predicted_technique": "T1021.001",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1021.001",
+      "T1563"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0128",
+    "category": "endpoint",
+    "ground_truth_technique": "T1021.001",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1563",
+      "T1070.007"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0129",
+    "category": "endpoint",
+    "ground_truth_technique": "T1021.001",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1070.007",
+      "T1021.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0130",
+    "category": "endpoint",
+    "ground_truth_technique": "T1021.001",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1070.007",
+      "T1021.001"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0131",
+    "category": "endpoint",
+    "ground_truth_technique": "T1021.001",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1563",
+      "T1070.007"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0132",
+    "category": "endpoint",
+    "ground_truth_technique": "T1021.001",
+    "predicted_technique": "T1021.001",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1021.001",
+      "T1098.007"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0133",
+    "category": "endpoint",
+    "ground_truth_technique": "T1021.001",
+    "predicted_technique": "T1563.002",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1563.002",
+      "T1070.007",
+      "T1563"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0134",
+    "category": "identity",
+    "ground_truth_technique": "T1003",
+    "predicted_technique": "T1003",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1003",
+      "T1003.002",
+      "T1003.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0135",
+    "category": "identity",
+    "ground_truth_technique": "T1003",
+    "predicted_technique": "T1003.001",
+    "top1_correct": false,
+    "parent_correct": true,
+    "recall_at_3": false,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1543.005",
+      "T1003.001",
+      "T1480.002"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0136",
+    "category": "identity",
+    "ground_truth_technique": "T1003",
+    "predicted_technique": "T1003",
+    "top1_correct": true,
+    "parent_correct": true,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1003",
+      "T1003.002",
+      "T1056.002"
+    ],
+    "severity": "Critical",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0137",
+    "category": "identity",
+    "ground_truth_technique": "T1003",
+    "predicted_technique": "T1056.004",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1056.004",
+      "T1556.008",
+      "T1134.005"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0138",
+    "category": "identity",
+    "ground_truth_technique": "T1003",
+    "predicted_technique": "T1047",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1047",
+      "T1546.003",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0139",
+    "category": "identity",
+    "ground_truth_technique": "T1003",
+    "predicted_technique": "T1059.001",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": false,
+    "recall_at_3_parent": false,
+    "retrieved_technique_ids": [
+      "T1546.013",
+      "T1059.001",
+      "T1059.009"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  },
+  {
+    "alert_id": "SYN-0140",
+    "category": "identity",
+    "ground_truth_technique": "T1003",
+    "predicted_technique": "T1047",
+    "top1_correct": false,
+    "parent_correct": false,
+    "recall_at_3": true,
+    "recall_at_3_parent": true,
+    "retrieved_technique_ids": [
+      "T1047",
+      "T1546.003",
+      "T1003"
+    ],
+    "severity": "High",
+    "attempts_needed": 1,
+    "failed": false
+  }
+]
